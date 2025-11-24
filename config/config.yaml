@@ -101,3 +101,8 @@ platforms:
     name: "知乎"
   - id: "coolapk"
     name: "酷安"
+  - id: "pcbeta"
+    name: "远景论坛"
+  - id: "gelonghui"
+    name: "格隆汇"
+
